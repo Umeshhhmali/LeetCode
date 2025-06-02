@@ -5,9 +5,10 @@ This repository contains my solutions to LeetCode problems. I'm solving problems
 ## 📁 Folder Structure
 
 LeetCode/
-├── Easy/
-├── Medium/
-├── Hard/
+
+├── Easy/  
+├── Medium/    
+├── Hard/    
 
 Each folder contains problem files named by their title, solved in languages like Python, C++, JavaScript, etc.
 
